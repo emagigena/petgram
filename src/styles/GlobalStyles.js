@@ -15,7 +15,7 @@ export const GlobalStyle = createGlobalStyle`
   button { background: transparent; border: 0; outline: 0 }
 
   body {
-    background: #0E0E0E;
+    background: black;
     height: 100vh;
     margin: 0 auto;
     max-width: 500px;

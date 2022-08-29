@@ -3,7 +3,7 @@ import { Link as LinkRouter } from "@reach/router";
 
 export const Link = styled(LinkRouter)`
   border-radius: 8px;
-  box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 8px rgba(192,192,192,0.3);
   display: inline-block;
   margin: 1%;
   overflow: hidden;
